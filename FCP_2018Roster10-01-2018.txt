@@ -333,7 +333,7 @@ DL,Danny Shelton,25,2015,85,86,74,95,86,86,2.9,4
 RB,James Develin,30,2012,76,84,78,78,70,37,1.9,2
 K,Stephen Gostkowski,34,2006,83,68,87,96,88,59,4.3,4
 LB,Ja'Whaun Bentley,22,2018,69,58,84,82,82,58,0.7,4
-LB Chase Winovich,21,2018,84,85,83,87,80,82,3.0,4
+LB,Chase Winovich,21,2018,84,85,83,87,80,82,3.0,4
 LB,Nicholas Grigsby,26,2016,64,56,89,78,66,63,0.6,2
 LB,Jamie Collins,29,2013,75,84,85,89,86,72,12.5,4
 LB,Dont'a Hightower,28,2012,84,88,95,94,70,64,8.9,4
