@@ -554,6 +554,7 @@ END_PLAYERS
 Jacksonville Jaguars, JAX
 OL,Brandon Linder,26,2014,89,89,79,89,89,90,10.3,5
 OL,Tyler Shatley,27,2014,66,66,75,95,72,69,1.0,2
+CB,Greg Johnson,26,2015,66,60,67,70,55,60,1.0,1
 CB,Tre Herndon,22,2018,67,68,89,91,80,56,0.6,3
 CB,Jalen Ramsey,24,2016,97,97,91,93,93,72,5.8,4
 CB,A.J. Bouye,27,2013,94,96,91,66,89,96,13.5,5
